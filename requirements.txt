@@ -1,0 +1,4 @@
+# Standard library Tkinter is used by default (no external pip dependencies required).
+
+pyvista>=0.43.0
+numpy>=1.24.0
