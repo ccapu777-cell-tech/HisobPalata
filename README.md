@@ -1,6 +1,6 @@
-# 🏛️ HisobPalata — Qurilish Smetasi va Byudjet Nazorati Auditi Tizimi
+# 🏛️ Automated Financial Pre-Audit & Benchmark Variance Platform — Qurilish Smetasi va Byudjet Nazorati Auditi Tizimi
 
-**HisobPalata** — O‘zbekiston Respublikasi qurilish me’yorlari (**ShNQ**) hamda tovar-xomashyo birjasi etalon narxlari (**O‘zRTXB / UzEx**) asosida davlat qurilish ob’ektlari smetalarini tekshiruvchi, moliyaviy qallobliklarni (narx va hajm ko‘pirtirilishi) avtomatik aniqlovchi ish stoli (desktop) tahlil platformasi.
+**Automated Financial Pre-Audit & Benchmark Variance Platform** — O‘zbekiston Respublikasi qurilish me’yorlari (**ShNQ**) hamda tovar-xomashyo birjasi etalon narxlari (**O‘zRTXB / UzEx**) asosida davlat qurilish ob’ektlari smetalarini tekshiruvchi, moliyaviy qallobliklarni (narx va hajm ko‘pirtirilishi) avtomatik aniqlovchi ish stoli (desktop) tahlil platformasi.
 
 Tizim interaktiv 4-bosqichli **3D BIM evolyutsion renderi** hamda **5.0 Trillion so‘mlik davlat byudjeti jamg‘armasi** uchun kinematik animatsion **Byudjet Daraxti (Tree Diagram)** bilan jihozlangan.
 
